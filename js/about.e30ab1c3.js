@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknoveno_proyecto_cli_vue3"]=self["webpackChunknoveno_proyecto_cli_vue3"]||[]).push([[443],{782:function(n,e,o){o.r(e),o.d(e,{default:function(){return v}});var u=o(252);const t={class:"about"},c=(0,u._)("h1",null,"This is an about page",-1),r=[c];function a(n,e){return(0,u.wg)(),(0,u.iD)("div",t,r)}var s=o(744);const i={},l=(0,s.Z)(i,[["render",a]]);var v=l}}]);
+//# sourceMappingURL=about.e30ab1c3.js.map
